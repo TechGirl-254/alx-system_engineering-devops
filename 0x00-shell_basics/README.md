@@ -1,1 +1,1 @@
-Display name of the current working directory
+Printing working directory on emacs

@@ -1,3 +1,6 @@
-#!/bin/bash
-./0-current_woking_directory
-/root/alx-system_engineering-devops/0x00-shell-basics
+
+
+
+#!bin/bash
+
+pwd
