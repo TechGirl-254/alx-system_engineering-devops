@@ -1,0 +1,12 @@
+total 40
+drwxr-xr-x 2 root root  180 May 30 14:41 .
+drwxr-xr-x 6 root root 4096 May 30 12:36 ..
+-rwxr--r-- 1 root root   30 May 30 13:17 0-hello_world
+-rwxr--r-- 1 root root   27 May 30 13:24 1-confused_smiley
+-rwxr--r-- 1 root root   28 May 30 13:29 2-hellofile
+-rwxr--r-- 1 root root   39 May 30 13:32 3-twofiles
+-rwxr--r-- 1 root root   29 May 30 13:38 4-lastlines
+-rwxr--r-- 1 root root   29 May 30 13:41 5-firstlines
+-rwxr--r-- 1 root root   46 May 30 13:59 6-third_line
+-rwxr--r-- 1 root root   42 May 30 14:44 8-cwd_state
+-rw-r--r-- 1 root root  118 May 30 13:53 iacta
